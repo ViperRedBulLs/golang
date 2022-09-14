@@ -27,3 +27,6 @@
   <li>Goroutine</li>
   <li>Channel</li>
 </ul>
+
+### Finish
+Mengeksekusi database menggunakan bahasa Golang
